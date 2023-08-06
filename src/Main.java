@@ -41,8 +41,7 @@ public class Main {
     }
 
     public static void task3() {
-        List<String> repeatingList = new ArrayList<>(List.of(
-                "Береза", "Дуб", "Липа",
+        List<String> repeatingList = new ArrayList<>(List.of("Береза", "Дуб", "Липа",
                 "Липа", "Кедр", "Береза",
                 "Дуб", "Ясень", "Смородина",
                 "Малина", "Дуб", "Ясень"));
