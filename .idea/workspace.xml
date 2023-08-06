@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec86189e-08d9-4cb1-a3ad-8b59459aed4b" name="Changes" comment="" />
+    <list default="true" id="ec86189e-08d9-4cb1-a3ad-8b59459aed4b" name="Changes" comment="Первый Коммит">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kseniia313"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a7a28e70-9beb-4e12-bbe7-a90b060d26d1" />
+        <option name="url" value="https://github.com/Kseniia313/SetsAndMaps2.6.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2TZUmAmqzkUwhPX44vJrIyVfwfj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +45,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/1656963/IdeaProjects/Homework1"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,6 +58,27 @@
       <option name="presentableId" value="Default" />
       <updated>1691250259191</updated>
     </task>
+    <task id="LOCAL-00001" summary="Первый Коммит">
+      <option name="closed" value="true" />
+      <created>1691250528848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691250528848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Первый Коммит">
+      <option name="closed" value="true" />
+      <created>1691250889028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691250889028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый Коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первый Коммит" />
   </component>
 </project>
